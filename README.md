@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Tejas Jondhale</h1>
-<h3 align="center">Tech Enthusiast | F1 fan | Musicophile | HTML | CSS | Aurdino</h3>
 
 - Check out my playlists! [https://open.spotify.com/user/hvul3v8cg2eqr5ywg3kv7deds?si=6eced8146da14e58](https://open.spotify.com/user/hvul3v8cg2eqr5ywg3kv7deds?si=6eced8146da14e58)
 
