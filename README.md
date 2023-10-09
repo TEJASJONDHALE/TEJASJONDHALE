@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **C, Java**
 
 - ⚡ Fun fact **Confused. pretending not to be. trying not to be.**
--  Check out my Spotify playlists here <a href="https://https://open.spotify.com/user/hvul3v8cg2eqr5ywg3kv7deds?si=6eced8146da14e58](https://open.spotify.com/user/hvul3v8cg2eqr5ywg3kv7deds?si=6eced8146da14e58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Spotify.svg" alt="tejasjondhale_4" height="30" width="40" /></a>
+-  Check out my Spotify playlists here https://open.spotify.com/user/hvul3v8cg2eqr5ywg3kv7deds?si=e1015f9002fd42d7
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
