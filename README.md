@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tejas Jondhale</h1>
-<h3 align="center">Tech Enthusiast | F1 fan | Musicophile | HTML | CSS | Aurdino</h3>
+<h3 align="center">Tech Enthusiast | HTML | CSS | Aurdino</h3>
 
 - 🌱 I’m currently learning **C, Java**
 
