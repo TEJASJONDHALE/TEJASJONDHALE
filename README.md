@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tejas Jondhale</h1>
-<h3 align="center">HTML | CSS | Aurdino | C</h3>
+<h3 align="center">HTML | CSS | C | Aurdino </h3>
 
 - 🌱 I’m currently learning **C, Java**
 
