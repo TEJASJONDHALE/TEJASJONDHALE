@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tejas Jondhale</h1>
 <h3 align="center">Python | Aurdino | HTML | CSS | C | </h3>
 
+- I use Arch, btw
 - 🌱 I’m currently learning **, Java**
 
 - ⚡ Fun fact **Confused. pretending not to be. trying not to be.**
