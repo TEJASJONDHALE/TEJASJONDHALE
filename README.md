@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tejas Jondhale</h1>
-<h3 align="center">HTML | CSS | C | Aurdino </h3>
+<h3 align="center">Python | Aurdino | HTML | CSS | C | </h3>
 
-- 🌱 I’m currently learning **C, Java**
+- 🌱 I’m currently learning **, Java**
 
 - ⚡ Fun fact **Confused. pretending not to be. trying not to be.**
 - Spotify https://open.spotify.com/user/hvul3v8cg2eqr5ywg3kv7deds?si=e1015f9002fd42d7
