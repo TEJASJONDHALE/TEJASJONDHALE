@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tejas Jondhale</h1>
+<h1 align="center">Hi 👋, I'm Tejas </h1>
 <h3 align="center">Python | Aurdino | HTML | CSS | C | </h3>
 
 - I use Arch, btw
