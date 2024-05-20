@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tejas </h1>
-<h3 align="center">Bash | C | Python | HTML/CSSn|JAVA </h3>
+<h3 align="center">Bash | C | Python | HTML/CSS | JAVA </h3>
 
 - I use Arch, btw
 - 🌱 I’m currently learning **, Java**
