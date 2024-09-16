@@ -35,8 +35,8 @@
   <a href="https://t.me/TEjAS_26" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="TEjAS_26" height="30" width="40" />
   </a>
-  <a href="https://open.spotify.com/user/your_spotify_id" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="your_spotify_id" height="30" width="40" />
+  <a href="https://open.spotify.com/user/TEjAS" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="TEjAS" height="30" width="40" />
   </a>
   <a href="https://instagram.com/tejas_4431" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tejas_4431" height="30" width="40" />
@@ -44,11 +44,11 @@
   <a href="https://twitter.com/tejasjondhale_4" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tejasjondhale_4" height="30" width="40" />
   </a>
-  <a href="https://www.reddit.com/user/your_reddit_username" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="your_reddit_username" height="30" width="40" />
+  <a href="https://www.reddit.com/user/TEjAS_2606" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="TEjAS_2606" height="30" width="40" />
   </a>
-  <a href="https://discord.com/users/your_discord_id" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="your_discord_id" height="30" width="40" />
+  <a href="https://discord.com/users/tejas_0626" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tejas_2606" height="30" width="40" />
   </a>
 </p>
 
