@@ -35,8 +35,8 @@
   <a href="https://t.me/TEjAS_26" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="TEjAS_26" height="30" width="40" />
   </a>
-  <a href="https://open.spotify.com/user/TEjAS" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="TEjAS" height="30" width="40" />
+  <a href="https://open.spotify.com/user/hvul3v8cg2eqr5ywg3kv7deds" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="hvul3v8cg2eqr5ywg3kv7deds" height="30" width="40" />
   </a>
   <a href="https://instagram.com/tejas_4431" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tejas_4431" height="30" width="40" />
