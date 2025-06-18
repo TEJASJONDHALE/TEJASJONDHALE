@@ -2,7 +2,7 @@
 
 - I use Arch, btw
   
-- 🌱 I’m currently learning **, Spring boot**
+- 🌱 I’m currently learning .NET
   
 - ⚡ Fun fact **Confused. pretending not to be. trying not to be.**
 ## Skills:
