@@ -69,3 +69,8 @@
 
 <p><a href="https://www.buymeacoffee.com/TEjAS"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="TEjAS" /></a></p><br><br>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TEJASJONDHALE&bg_color=1e1e2e&color=cdd6f4&line=89b4fa&point=f38ba8&area=true&area_color=89b4fa&hide_border=true"/>
+</p>
+
+
