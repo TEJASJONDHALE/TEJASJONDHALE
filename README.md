@@ -47,10 +47,10 @@ shell  = "zhs"
 ```
 
 <p>
+  <a href="https://tejascodes.qzz.io"><img src="https://img.shields.io/badge/Portfolio-FF4500?style=flat-square&logo=firefox&logoColor=white"/></a>
   <a href="https://github.com/TEJASJONDHALE"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
   <a href="https://twitter.com/tejasjondhale_4"><img src="https://img.shields.io/badge/Twitter-1D9BF0?style=flat-square&logo=twitter&logoColor=white"/></a>
   <a href="https://t.me/TEjAS_26"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/></a>
-  <a href="https://tejasjcodes.qzz.io"><img src="https://img.shields.io/badge/Portfolio-FF4500?style=flat-square&logo=firefox&logoColor=white"/></a>
 </p>
 
 ---
